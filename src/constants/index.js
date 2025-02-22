@@ -135,8 +135,8 @@ const technologies = [
 const experiences = [
   {
     title: "Software Engineer",
-    company_name: "Crmnext",
-    company_website: "https://www.businessnext.com/crm",
+    company_name: "z3connect",
+    company_website: "https://www.z3connect.com",
     icon: crmnext,
     iconBg: "#E6DEDD",
     date: "Nov 2023 - Present",
@@ -149,8 +149,8 @@ const experiences = [
   },
   {
     title: "Software Engineer",
-    company_name: "Nickelfox Technologies",
-    company_website: "https://www.nickelfox.com/",
+    company_name: "z3connect",
+    company_website: "https://www.z3connect.com/",
     icon: nickelfox,
     iconBg: "#E6DEDD",
     date: "Jan 2022 - Nov 2023",
@@ -163,8 +163,8 @@ const experiences = [
   },
   {
     title: "Software Developer",
-    company_name: "Newgen Software",
-    company_website: "https://newgensoft.com/home-india/",
+    company_name: "z3connect",
+    company_website: "https://www.z3connect.com",
     icon: newgen,
     iconBg: "#E6DEDD",
     date: "Mar 2021 - Dec 2021",
@@ -177,8 +177,8 @@ const experiences = [
   },
   {
     title: "Software Engineer Intern",
-    company_name: "Skillrisers",
-    company_website: "https://www.skillrisers.com/",
+    company_name: "z3connect",
+    company_website: "https://www.z3connect.com/",
     icon: skillrisers,
     iconBg: "#E6DEDD",
     date: "Jan 2020 - Jul 2020",
@@ -191,8 +191,8 @@ const experiences = [
   },
   {
     title: "Frontend Developer",
-    company_name: "Self-employed",
-    company_website: "https://proximus.surge.sh/index.html",
+    company_name: "z3connect",
+    company_website: "https://www.z3connect.com",
     icon: proximus,
     iconBg: "#E6DEDD",
     date: "Jan 2018 - Jan 2021",
@@ -225,7 +225,7 @@ const projects = [
       },
     ],
     image: aptihealthWeb,
-    hosted_link: "https://www.aptihealth.com/",
+    hosted_link: "https://www.z3connect.com/",
   },
   {
     name: "Aptihealth App",
@@ -310,7 +310,7 @@ const projects = [
       },
     ],
     image: rollWeb,
-    hosted_link: "https://app.tryroll.com/",
+    hosted_link: "https://www.z3connect.com/",
   },
   {
     name: "Roll App",
@@ -337,33 +337,29 @@ const projects = [
 ];
 
 const personalInfo = {
-  name: "Shridhar",
-  fullName: "Shridhar Rai",
-  email: "raishridhar619@gmail.com",
-  role: "Software Developer",
-  about: `I'm a skilled software developer with experience in TypeScript and
-  JavaScript, and expertise in frameworks like React.Js, React-naitve,
-  Node.js etc. I'm a quick learner and collaborate closely with clients to
-  create efficient, scalable, and user-friendly solutions that solve
-  real-world problems. Let's work together to bring your ideas to life!`,
-  projectsIntro: `Following projects showcases my skills and experience through
-  real-world examples of my work. Each project is briefly described with
-  live demos. It reflects my ability to solve complex problems, work
-  with different technologies, and manage projects effectively.`,
+  name: "z3connect",
+  fullName: "z3connect",
+  email: "z3connect.z3connect@gmail.com",
+  role: "DEV",
+  about: `At Z3Connect, we specialize in innovative digital solutions to help businesses grow and streamline their operations. Our expertise spans across custom AI tool development, website creation, e-commerce solutions, and small business automation, ensuring that our clients have the right technology to scale efficiently.
+We believe in the power of AI-driven automation and offer cutting-edge tools, including AI-powered caption generators, WhatsApp automation, and business management solutions. Whether you're an entrepreneur, a startup, or an established business, Z3Connect is here to provide tailored solutions that enhance productivity and engagement.
+Our mission is to empower businesses with intelligent, user-friendly technology that simplifies tasks, enhances customer interactions, and drives success in the digital era.
+Let’s innovate together. 🚀`,
+  projectsIntro: `The following projects showcase Z3Connect’s expertise in AI development, website creation, e-commerce solutions, and business automation. Each project is a real-world example of how we solve complex problems, integrate cutting-edge technologies, and deliver scalable solutions. Explore our work through live demos and see how we innovate for the future.`,
 };
-
+ 
 const publicUrls = {
   resume:
     "https://drive.google.com/file/d/1vmiPiCLaCuqM0uuDcXQlAd8pY8yBDEOU/view?usp=sharing",
   socialProfiles: {
     linkedin: {
       title: "linkedin",
-      link: "https://www.linkedin.com/in/shridharrai/",
+      link: "https://www.linkedin.com/company/z3connect/",
       icon: linkedIn,
     },
     github: {
       title: "github",
-      link: "https://github.com/shridharrai",
+      link: "https://github.com/orgs/Z3connect",
       icon: github,
     },
   },
